@@ -1,0 +1,14 @@
+pip install tk
+pip install beautifulsoup4
+pip install urllib3
+pip install datetime
+pip install Open-Tamil
+pip install Pillow
+pip install gTTs
+pip install playsound
+
+
+Handling errors
+Incase of TCL Error : ImageTk , use --> sudo apt-get install python3-pil.imagetk
+Incase of pyimage2 or pyimage3 does not exist errors, restart the kernel and run the program again.
+Incase of userscreen.state('zoomed'), bad attribute error, remove that line of code from the program(happens rarely)
